@@ -12,13 +12,3 @@ nav{
     width: 50%;
     height: auto;
 }
-
-@media screen (max-width: 768px){
-    .img{
-     display: none;
-    }
-    
-    .img2{
-        display: block;
-    }
-}
