@@ -8,10 +8,17 @@ nav{
     font-weight: 500;
 }
 
-@media screen(max-width: 768px){
-    .logo{
-        width: 150px;
-        height: 35px;
+.box{
+    width: 50%;
+    height: auto;
+}
+
+@media screen (max-width: 768px){
+    .img{
+     display: none;
     }
     
+    .img2{
+        display: block;
+    }
 }
